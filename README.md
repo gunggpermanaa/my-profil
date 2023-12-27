@@ -1,5 +1,5 @@
 <h1 align="center">Muhamad Salman Adhim Baqy</h1>
-<img align="center" alt="web-developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2021%2F07%2Ffull-stack-development.gif&f=1&nofb=1&ipt=685aaa984172d5869b334b26fd35acfb25895ac747151e50db0d7229e9bd9baa&ipo=images"/>
+
 <p align="justify" style="color: white !important; text-decoration: none !important">I'm a 7th-semester Informatics Engineering student at Universitas Dian Nuswantoro with a passion for web development. I've honed my skills in HTML, CSS, and JavaScript, and I've delved into advanced JavaScript frameworks like React.js and Vue.js to create dynamic web apps. My proficiency also extends to PHP frameworks such as Laravel and CodeIgniter 4 (CI4), enabling me to develop robust web solutions. While I have knowledge in various programming languages like Java, Python, and C++, my primary focus remains on web development. I'm committed to staying updated with the latest technologies to continuously push the boundaries of web development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msadhimb&label=Profile%20views&color=0e75b6&style=flat" alt="msadhimb" /> </p>
