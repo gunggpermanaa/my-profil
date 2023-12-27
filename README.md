@@ -9,4 +9,5 @@ agunggpermanaofficial@gmail.com
 -  MI Madrasah Ibtidaiyah Babantar
 -  MTsN 2 Ciamis
 -  SMAN 1 Kawali
+-  UIN SGD BANDUNG'23 (sekarang)
 
